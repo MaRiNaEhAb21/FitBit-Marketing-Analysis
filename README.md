@@ -1,5 +1,4 @@
 # FitBit-Marketing-Analysis
-# Sales-Company
 This repository contains a Power BI project analyzing the digital marketing strategy of Fitbit Company
 
 
